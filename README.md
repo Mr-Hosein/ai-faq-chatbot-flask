@@ -111,7 +111,7 @@ MIT License
 
 ---------------------------------
 
-# 5️⃣ requirements.txt (دقیق)
+# 5️⃣ requirements.txt
 flask
 sentence-transformers
 torch
